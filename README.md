@@ -6,7 +6,7 @@ A Flutter Web application with a Laravel backend designed to help students and e
 
 ## Project Information
 
-- Student: Sam So
+- Student: Sam Russell M. So
 - Selected Project: Project 23 – Enrollment Requirement Validator
 - Frontend: Flutter Web
 - Backend: Laravel 12
